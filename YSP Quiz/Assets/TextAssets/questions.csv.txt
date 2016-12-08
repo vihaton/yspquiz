@@ -1,0 +1,2 @@
+﻿Miten määritellään ympäristö?,$Kaikki mitä on tarkkailijan ympärillä.,"Se osa luontoa, jossa kasvaa kasveja.","Alueet, joita ei ole rakennettu.","Ne alueet, joilla asuu eläimiä."
+Mitä seuraavista YSP ei tarkoita?,Yorkshire Sculpture Park,$Ystävällisten Säästäjien Puolue,YmpäristönSuojelun Perusteet,Young Spokespeople
