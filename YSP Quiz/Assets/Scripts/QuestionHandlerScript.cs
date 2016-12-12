@@ -12,12 +12,16 @@ public class QuestionHandlerScript : MonoBehaviour {
     public GameObject optionsContainer;
     public int nextID = 0;
     public int howManyQuestions;
-    public QuestionDataStruct[] questions; 
+    public QuestionDataStruct[] questions;
+
+    private GameControllerScript GCS;
 
 	// Use this for initialization
 	void Start () {
+        GCS = GameObject.FindObjectOfType<GameControllerScript>();
         MakeQuestions();
         howManyQuestions = questions.Length;
+        GCS.SetHowManyQuestions(howManyQuestions);
         UpdateQuestion();
 	}
 
