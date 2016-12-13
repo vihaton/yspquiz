@@ -14,6 +14,7 @@ public class QuestionNoTextController : MonoBehaviour {
 
     public void UpdateQNTxt(int answered)
     {
+        answered = Mathf.Clamp(answered, 1, questionsInTotal);
         questionNoText.text = "Kysymys " + answered + "/" + questionsInTotal;
     }
 }

@@ -14,6 +14,7 @@ public class QuestionHandlerScript : MonoBehaviour {
     public int howManyQuestions;
     public QuestionDataStruct[] questions;
 
+    private bool lastQuestion = false;
     private GameControllerScript GCS;
 
 	// Use this for initialization
@@ -59,11 +60,19 @@ public class QuestionHandlerScript : MonoBehaviour {
 
     public void ChooseNextQuestion()
     {
-        if (nextID >= howManyQuestions - 1)
+        if (lastQuestion)
         {
-            nextID = 0;
+            GCS.ToggleUIPanel();
+            lastQuestion = false;
+            return;
         }
-        else nextID++;
+
+        nextID++;
+
+        if (nextID == howManyQuestions - 1)
+        {
+            lastQuestion = true;
+        }
 
         UpdateQuestion();
     }
