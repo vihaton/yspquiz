@@ -1,2 +1,21 @@
-﻿Miten määritellään ympäristö?,$Kaikki mitä on tarkkailijan ympärillä.,"Se osa luontoa, jossa kasvaa kasveja.","Alueet, joita ei ole rakennettu.","Ne alueet, joilla asuu eläimiä."
-Mitä seuraavista YSP ei tarkoita?,Yorkshire Sculpture Park,$Ystävällisten Säästäjien Puolue,YmpäristönSuojelun Perusteet,Young Spokespeople
+Miten määritellään ympäristö?,$Kaikki mitä on tarkkailijan ympärillä.,"Se osa luontoa, jossa kasvaa kasveja.","Alueet, joita ei ole rakennettu.","Ne alueet, joilla asuu eläimiä."
+Mitä seuraavista lyhenne YSP ei tarkoita?,Yorkshire Sculpture Park,$Ystävällisten Säästäjien Puolue,YmpäristönSuojelun Perusteet,Young Spokespeople
+Mitä on ympäristönsuojelu?,Suojella uhanalaisia eläinlajeja,Pysäyttää ilmastonmuutos,Konkreettisia toimia luonnossa,"$Pyrkimystä ennaltaehkäistä, ratkaista tai lievittää ympäristöongelmia"
+Mikä seuraavista ei kuulu kurssilla käytettyyn kestävän kehityksen nelikenttään?,Kulttuurinen kestävyys,Sosiaalinen kestävyys,$Historiallinen kestävyys,Taloudellinen kestävyys
+Mikä seuraavista kestävän kehityksen ulottuvuuksista on vain välinearvo?,Ekologinen kestävyys,Sosiaalinen kestävyys,Kulttuurillinen kestävyys,$Taloudellinen kestävyys
+Mitä on ympäristömuutos?,Ympäristöriski,$Ihmisten toiminnasta aiheutuva muutos tai sen seurausvaikutus luonnossa,Ympäristökriisi,Ympäristöpolitiikka
+Mihin Ripan lyhenne ”keke” viittaa?,Kehittyvään kehitykseen,Keskeneräiseen kehitykseen,$Kestävään kehitykseen,Kerronnalliseen kehittämiseen
+Mikä seuraavista ei ole kurssin ydinkysymys?,Millaisia ympäristömuutoksia on?,Mistä ympäristömuutokset johtuvat?,$Mitä on ilmastonmuutos?,"Miten ympäristöongelmia voisi ennaltaehkäistä, ratkaista tai lievittää?"
+Mikä on Ripan (yksi) viesti liittyen planeettaamme?,"Maailmankaikkeus on valtava, sieltä löytyy meille varaplaneetta.",$Varaplaneettaa ei ole eikä tule.,Maapallo on iso avaruuden kappale.,Mikrobit loivat elämän edellytykset maapallolla.
+Jos auringon halkaisija olisi 5cm (~tennispallo) niin maan halkaisija olisi,noin 5nm,noin 50nm,$noin 0.5mm,noin 5mm
+Mikä seuraavista ei ole elämän kannalta sopivalla etäisyydellä auringosta?,Kuu,Veenus,$Merkurius,Mars
+Mikä ei ole elämän kannalta oleellinen taivaankappaleen ominaisuus?,Sopiva massa suotuisan ilmakehän synnyttämiseen,$Yön pituus,Pyörähdysnopeuden suhde kiertonopeuteen,Nestemäisen veden esiintyminen
+Mitä kaasua maan ilmakehässä on eniten?,CO2 (hiilidioksidi),O2 (happi),$N2 (typpi),H2 (vety)
+Maapallon ikä on noin,"$4,6 mrd vuotta",460 miljoonaa vuotta,46 miljoonaa vuotta,"4,6 miljoonaa vuotta"
+Mikä seuraavista ei pidä paikkaansa: Alkuaineiden jaksollisessa järjestelmässä...,alaspäin mentäessa elektronikuorien määrä kasvaa,ylimmällä rivillä on kaksi alkuainetta,ulkoelektronien määrä kasvaa mentäessä oikealle,$oikeanpuolimmaisessa sarakkeessa ovat halogeenit
+Mikä seuraavan ryhmän alkuaineet reagoivat kaikista vähiten muiden alkuaineiden kanssa?,Halogeenit,$Jalokaasut,Alkalimetallit,Maa-alkalimetallit
+Mikä seuraavista ei kuulu 20 ensimmäiseen alkuaineeseen?,Vety (H),Natrium (Na),$Uraani (U),Argon (Ar)
+Mikä seuraavista kuuluu ”luonnon rakennusaineisiin”?,Magnesium (Mg),Fosfori (P),$Hiili ©,Kloori (Cl)
+Mikä seuraavista ei pidä paikkaansa? Kasvihuoneilmiö...,on täysin luonnollinen ilmiö.,mahdollistaa nykymuotoisen elämän maapallolla.,$on ihmisen aiheuttama.,vahvistuu ihmisen toiminnan seurauksena.
+Maapallon pinnasta veden peitossa on,$70%,"50,00%","30,00%","10,00%"
+Mikä seuraavista ei ole fotosynteesin alulle panema ”kerros”?,Yläilmakehän otsonikerros,Maankuoren fossiilikerrostumat (fossiiliset polttoaineet),$Maankuoren vesikerrokset (esimerkiksi meret),Maaperän pinnan runsaasti orgaanista ainesta sisältävä ruokamultakerros

@@ -82,6 +82,7 @@ public class QuestionHandlerScript : MonoBehaviour {
         string data = questionsAndAnswers.text;
         string[] rawQuestions = data.Split("\n"[0]);
         int max = rawQuestions.Length;
+        if (rawQuestions[max - 1].Length < 1) max--;
         questions = new QuestionDataStruct[max];
 
         for (int i = 0; i < max; i++)
@@ -134,6 +135,7 @@ public class QuestionHandlerScript : MonoBehaviour {
             lastPiece = piece;
         }
 
+        Debug.Log("QHS: valmis QDS questionstring " + QDS.questionString + " length: " + QDS.questionString.Length);
         return QDS;
     }
 
